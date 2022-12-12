@@ -1,0 +1,5 @@
+Which of the follwing below live on the heap in java?, Class, Instance variable, Object, Object
+Which of the follwing below live on the heap in java?, Class, Instance variable, Object
+
+Which of the following interface is used to declare core methods in java?, Set, EventListner, Collection, Collection
+Which of these interface handle sequences?, Set, List, Comparator, List
